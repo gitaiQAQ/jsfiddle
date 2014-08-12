@@ -4,8 +4,8 @@ Ext.onReady(function() {
         Bucket: "qtestbucket",
         SignUrl: "token.php",
         //qiniu test account
-        AK: "iN7NgwM31j4-BZacMjPrOQBs34UG1maYCAQmhdCV",
-        SK: "6QTOr2Jg1gcZEWDQXKOGZh5PziC2MCV5KsntT70j"
+        AK: "0-UsH3V-RICqz34EZ62oO-zLJ7vtKNzm2N0P3d7b",
+        SK: "9dJI6r0oonLt7j7il0wi8pnJT9_E4O9xJLbhaGic"
     }
 
     /* utf.js - UTF-8 <=> UTF-16 convertion
